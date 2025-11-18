@@ -1,0 +1,37 @@
+# Django
+Django==5.0.1
+djangorestframework==3.14.0
+django-cors-headers==4.3.1
+django-environ==0.11.2
+
+# Database
+psycopg2-binary==2.9.9
+
+# Authentication
+PyJWT==2.8.0
+bcrypt==4.1.2
+
+# OpenAI
+openai==1.12.0
+
+# Vector Database
+sqlite-vector==0.1.0
+
+# File Processing
+PyPDF2==3.0.1
+python-docx==1.1.0
+openpyxl==3.1.2
+Pillow==10.2.0
+
+# Utilities
+python-dotenv==1.0.0
+requests==2.31.0
+
+# Task Queue (for background processing)
+celery==5.3.4
+redis==5.0.1
+
+# Server
+gunicorn==21.2.0
+uvicorn==0.29.0
+
